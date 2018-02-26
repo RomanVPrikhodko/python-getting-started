@@ -1,4 +1,3 @@
-# Бот отвечает на приветствия пользователя в зависимости от времени суток
 import requests
 import time  
 import datetime
