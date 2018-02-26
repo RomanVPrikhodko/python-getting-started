@@ -1,4 +1,3 @@
-import telebot
 import time  
 from telebot import types
 
